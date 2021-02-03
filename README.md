@@ -18,3 +18,11 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Authors
+
+* **Matheus Cunha Reis** - *creator* - [GitHub](https://github.com/matheuscr30) ✌
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
