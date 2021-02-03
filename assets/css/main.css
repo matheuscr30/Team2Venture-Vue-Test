@@ -1,0 +1,14 @@
+body {
+  background-color: #FFDB04;
+  font-family: Roboto, 'Source Sans Pro', sans-serif;
+  color: #29394a;
+}
+
+a {
+  color: #29394a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
