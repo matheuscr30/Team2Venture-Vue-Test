@@ -1,8 +1,11 @@
 <template>
   <!--
     The circle is mount by 4 divs representing the 4 parts (bottomLeft, bottomRight, topLeft, topRight)
-    Those parts are shown based on the percentages from and to
+    Each part represents 25% and the parts are shown based on the percentages from and to
     Ex: from = 50 && to == 100 => bottomRight, bottomLeft and topLeft will be shown
+
+    The property reverse, just invert the div
+    The property full, just applies a backgroundColor
   -->
 
   <div class="circle" :class="{ reverse: reverse }">
